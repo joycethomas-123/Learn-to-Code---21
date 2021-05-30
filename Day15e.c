@@ -39,5 +39,5 @@ int main() {
 
     }
               if(count==0)
-              printf("Element is not found");
+              printf("Element not found");
 }
